@@ -1,0 +1,3 @@
+ytm:
+  kafka:
+    bootstrap-servers: http://localhost:8091

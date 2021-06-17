@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ytm-pinc-to-wtm
+
+server:
+  context-path: /ytm-pinc-to-wtm
