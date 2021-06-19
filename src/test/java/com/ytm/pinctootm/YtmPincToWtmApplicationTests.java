@@ -1,4 +1,4 @@
-package com.ytm.pinctowtm;
+package com.ytm.pinctootm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

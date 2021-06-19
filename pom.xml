@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ytm</groupId>
-	<artifactId>ytm-pinc-to-wtm</artifactId>
+	<artifactId>ytm-pinc-to-otm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ytm-pinc-to-wtm</name>
-	<description>Yard Trailer Management PINC to WTM</description>
+	<name>ytm-pinc-to-otm</name>
+	<description>Yard Trailer Management PINC to OTM</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2020.0.3</spring-cloud.version>

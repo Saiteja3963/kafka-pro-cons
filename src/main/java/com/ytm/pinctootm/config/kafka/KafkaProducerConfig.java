@@ -1,4 +1,4 @@
-package com.ytm.pinctowtm.config.kafka;
+package com.ytm.pinctootm.config.kafka;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;

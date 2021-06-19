@@ -1,4 +1,4 @@
-package com.ytm.pinctowtm.config.kafka;
+package com.ytm.pinctootm.config.kafka;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.ytm.pinctowtm.consumer;
+package com.ytm.pinctootm.consumer;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
